@@ -21,7 +21,6 @@ Puedes consultar la política completa aquí:
 
 👉 [Ver política de privacidad](https://JM31.github.io/ficha_pozo_privacidad)
 
-> ℹ️ Reemplaza `TU_USUARIO` por tu nombre de usuario en GitHub para que el enlace funcione correctamente.
 
 ## 📁 Archivos clave
 
@@ -40,4 +39,4 @@ Desarrollado por:
 
 ---
 
-© 2025 OLYMPIC PERU INC. Todos los derechos reservados.
+© 2025 JOSE CORDOVA YNFANTE. Todos los derechos reservados.
