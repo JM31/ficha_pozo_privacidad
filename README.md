@@ -6,12 +6,19 @@ Este repositorio contiene la política de privacidad oficial de la aplicación *
 
 ## 📱 Acerca de la aplicación
 
-**Ficha de Pozo Petróleo y Gas** está diseñada para el uso **interno** de empresas del sector hidrocarburos en el norte del Perú. En esta versión, la app permite:
+**Ficha de Pozo Petroleo y Gas** está diseñada para el uso interno de empresas del sector hidrocarburos en el norte del Perú. Permite:
 
-- Registrar parciales de batería desde campo  
-- Gestionar transferencias de crudo y pruebas de pozos  
-- Consultar variables operativas: petróleo, gas, agua y más  
-- Visualizar información clave como intervenciones, análisis y mediciones  
+- Consultar variables de producción: petróleo, gas, agua y más
+- Visualizar información clave como intervenciones, análisis y mediciones
+
+### 🚀 Funcionalidad disponible en esta versión
+
+Esta versión inicial de la aplicación **solo habilita el módulo de consultas y monitoreo de pozos**. Los usuarios pueden:
+
+- Acceder a indicadores de producción diaria, mensual y anual
+- Visualizar datos históricos de pozos operativos
+
+⚠️ Módulos como el registro de parciales, pruebas de pozo o transferencias de crudo aún **no están disponibles** y se habilitarán progresivamente en versiones futuras.
 
 ---
 
