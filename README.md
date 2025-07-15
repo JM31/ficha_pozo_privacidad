@@ -1,17 +1,37 @@
 # 🛡️ Política de Privacidad – Ficha de Pozo Petróleo y Gas
 
-Este repositorio contiene la política de privacidad oficial de la aplicación **Ficha de Pozo Petróleo y Gas**, una solución digital desarrollada para registrar y consultar información de pozos petroleros y de gas natural directamente desde campo.
+📦 **Nombre:** Ficha Pozo: Petróleo y Gas  
+📱 **Tipo de app:** Aplicación  
+📁 **Categoría:** Productividad  
+📌 **Versión actual:** Solo modo consulta  
+📍 **Ubicación de uso:** Norte del Perú  
+📆 **Última actualización:** abril 2025  
+
+---
+
+## 📚 Tabla de contenido
+
+- [📱 Acerca de la aplicación](#-acerca-de-la-aplicación)
+- [🚀 Funcionalidad disponible en esta versión](#-funcionalidad-disponible-en-esta-versión)
+- [🔐 Política de Privacidad de la aplicación](#-política-de-privacidad-de-la-aplicación)
+- [🎯 Permisos declarados en la app](#-permisos-declarados-en-la-app)
+- [🔗 Enlaces útiles](#-enlaces-útiles)
+- [🧩 Categoría en Google Play](#-categoría-en-google-play)
+- [📄 Cambios legales – abril 2025](#-cambios-legales--abril-2025)
+- [✉️ Contacto del responsable](#-contacto-del-responsable)
 
 ---
 
 ## 📱 Acerca de la aplicación
 
-**Ficha de Pozo Petroleo y Gas** está diseñada para el uso interno de empresas del sector hidrocarburos en el norte del Perú. Permite:
+**Ficha de Pozo Petróleo y Gas** está diseñada para el uso interno de empresas del sector hidrocarburos en el norte del Perú. Permite:
 
 - Consultar variables de producción: petróleo, gas, agua y más
 - Visualizar información clave como intervenciones, análisis y mediciones
 
-### 🚀 Funcionalidad disponible en esta versión
+---
+
+## 🚀 Funcionalidad disponible en esta versión
 
 Esta versión inicial de la aplicación **solo habilita el módulo de consultas y monitoreo de pozos**. Los usuarios pueden:
 
@@ -22,7 +42,7 @@ Esta versión inicial de la aplicación **solo habilita el módulo de consultas 
 
 ---
 
-## 🔐 Política de Privacidad
+## 🔐 Política de Privacidad de la aplicación
 
 ### ✅ Datos recopilados
 
@@ -36,7 +56,7 @@ Todos los datos gestionados son de **naturaleza operativa**, internos de la empr
 
 ---
 
-### 🎯 Permisos declarados en la app
+## 🎯 Permisos declarados en la app
 
 La app incluye los siguientes permisos declarados en el `AndroidManifest.xml`, pero **no están activos ni solicitados en esta versión**:
 
@@ -95,4 +115,7 @@ Se han declarado de forma honesta y responsable los siguientes aspectos en la se
 
 ---
 
-© 2025 JOSE CORDOVA YNFANTE. Todos los derechos reservados.
+© 2025 JOSE CORDOVA YNFANTE.  
+Todos los derechos reservados.  
+Este proyecto cumple con los requisitos de privacidad de Google Play Console.
+
