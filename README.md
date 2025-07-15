@@ -56,11 +56,14 @@ La app incluye los siguientes permisos declarados en el `AndroidManifest.xml`, p
 
 ---
 
-## ✉️ Contacto del responsable
+## 🧩 Categoría en Google Play
 
-**JOSE CORDOVA YNFANTE**  
-📍 Paita, Piura – Perú  
-📧 [jcordova31@hotmail.com](mailto:jcordova31@hotmail.com)
+Esta aplicación ha sido clasificada como:
+
+**📂 Tipo de app:** Aplicación  
+**📁 Categoría:** Productividad
+
+> Esta categoría refleja el enfoque funcional de la app: facilitar el monitoreo operativo de pozos, optimizar procesos técnicos y apoyar decisiones rápidas desde campo.
 
 ---
 
@@ -81,6 +84,14 @@ Se han declarado de forma honesta y responsable los siguientes aspectos en la se
 > Esta versión **no utiliza Firebase Crashlytics ni servicios externos de errores**.  
 > Sin embargo, se reconoce que Flutter o Android pueden generar logs locales si ocurre un fallo.  
 > **No se recopilan datos personales ni se comparten con terceros.**
+
+---
+
+## ✉️ Contacto del responsable
+
+**JOSE CORDOVA YNFANTE**  
+📍 Paita, Piura – Perú  
+📧 [jcordova31@hotmail.com](mailto:jcordova31@hotmail.com)
 
 ---
 
