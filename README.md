@@ -64,4 +64,24 @@ La app incluye los siguientes permisos declarados en el `AndroidManifest.xml`, p
 
 ---
 
+## 📄 Cambios legales – abril 2025
+
+### 🛡️ Ajustes de cumplimiento de privacidad en Google Play Console
+
+Se han declarado de forma honesta y responsable los siguientes aspectos en la sección de **Seguridad de los Datos** de Google Play Console:
+
+#### 🔍 Registros de fallas:
+
+- ✅ **Marcado como recopilado**, para reflejar posibles registros internos generados por Android o Flutter ante errores inesperados.
+- ✅ **Declarado como procesado de forma efímera**, ya que no se almacenan ni se envían a servidores.
+- ✅ **Indicados como necesarios para el funcionamiento de la app**, no configurables por el usuario.
+- ✅ **Asociados únicamente a funciones esenciales de la app** y estadísticas técnicas.
+
+> ⚠️ **Nota técnica:**  
+> Esta versión **no utiliza Firebase Crashlytics ni servicios externos de errores**.  
+> Sin embargo, se reconoce que Flutter o Android pueden generar logs locales si ocurre un fallo.  
+> **No se recopilan datos personales ni se comparten con terceros.**
+
+---
+
 © 2025 JOSE CORDOVA YNFANTE. Todos los derechos reservados.
