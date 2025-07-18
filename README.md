@@ -72,7 +72,7 @@ La app incluye los siguientes permisos en el archivo `AndroidManifest.xml`, pero
 
 ### 📌 Declaración técnica sobre permisos de ubicación
 
-**Versión 15 – Abril 2025**
+**Versión 15 – julio 2025**
 
 - Esta versión **no solicita ubicación en primer ni segundo plano**.
 - Los permisos relacionados (`ACCESS_FINE_LOCATION`, `ACCESS_COARSE_LOCATION`, `ACCESS_BACKGROUND_LOCATION`) **fueron eliminados completamente** del `AndroidManifest.xml` a partir de la **versión 15**.
