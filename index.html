@@ -28,7 +28,15 @@
   <p><strong>Versión actual:</strong> esta versión solo incluye funcionalidades de <strong>consulta y monitoreo</strong> de información operativa. Módulos como registros, grabaciones de audio o formularios aún no están disponibles.</p>
 
   <h2>Permisos utilizados</h2>
-  <p>Actualmente, esta versión <strong>no solicita ningún permiso sensible</strong>. Aunque en el futuro se contempla el uso de permisos como GPS o micrófono para funcionalidades operativas, estos no están activos en esta entrega.</p>
+<p>Actualmente, esta versión <strong>no solicita ningún permiso sensible</strong>. Aunque en el futuro se contempla el uso de permisos como GPS o micrófono para funcionalidades operativas, estos no están activos en esta entrega.</p>
+
+<h3>📌 Estado actual de los permisos de ubicación</h3>
+<p>En versiones anteriores en desarrollo, la app declaraba permisos como <code>ACCESS_FINE_LOCATION</code>, <code>ACCESS_COARSE_LOCATION</code> y <code>ACCESS_BACKGROUND_LOCATION</code> en su archivo <code>AndroidManifest.xml</code>.</p>
+
+<p>Sin embargo, en la <strong>versión publicada actual</strong>, dichos permisos han sido <strong>eliminados completamente</strong>. La aplicación <strong>no accede a la ubicación</strong> del dispositivo ni en primer plano ni en segundo plano.</p>
+
+<p>Esto ha sido verificado para cumplir con las <a href="https://support.google.com/googleplay/android-developer/answer/9799150">políticas de Google Play Console</a> sobre permisos sensibles.</p>
+
 
   <h2>Recopilación y uso de datos</h2>
   <p>No se recopila información personal identificable. La app solo consulta datos internos previamente cargados desde sistemas autorizados de la empresa.</p>
