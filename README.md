@@ -5,7 +5,7 @@
 📁 **Categoría:** Productividad  
 📌 **Versión actual:** Solo modo consulta  
 📍 **Ubicación de uso:** Norte del Perú  
-📆 **Última actualización:** abril 2025  
+📆 **Última actualización:** julio 2025  
 
 ---
 
@@ -101,7 +101,7 @@ Esta aplicación ha sido clasificada como:
 
 ---
 
-## 📄 Cambios legales – abril 2025
+## 📄 Cambios legales – julio 2025
 
 ### 🛡️ Ajustes de cumplimiento de privacidad en Google Play Console
 
